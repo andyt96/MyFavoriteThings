@@ -1,7 +1,17 @@
-# hello-world
+# hello-world!
 
 This is my first repository. This repository will help me understand git and the inner workings of Github.
 
-My favorite TV show is *Teen Titans*. This show is one of the most critically acclaimed shows on Cartoon Network.
+## Favorite TV Show
+Teen Titans
 
-My favorite color is purple and I live in Manhattan.
+## Current Favorite TV Show
+Brooklyn Nine-Nine
+
+![Jake going to the bathroom to cry](https://media.giphy.com/media/xT9IgovVfkFstqybL2/giphy.gif)
+
+## Favorite Color
+Purple
+
+## Favorite Food
+Fried rice
