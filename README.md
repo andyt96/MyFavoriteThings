@@ -5,7 +5,7 @@ This is my first repository. This repository will help me understand Markdown an
 ## Favorite TV Show
 Teen Titans
 
-## Current Favorite TV Show
+## Favorite Current TV Show
 Brooklyn Nine-Nine
 
 ![HOT DAMN!](https://media.giphy.com/media/HEXbWjIsrbUIw/giphy.gif)
