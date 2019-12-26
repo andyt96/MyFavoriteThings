@@ -42,6 +42,8 @@ Stephen Colbert
 
 > I'm not here to affect you politically or socially. I'm here to make you laugh. I use the news as the palette for my jokes.
 
+[Source](https://www.nj.com/entertainment/tv/2009/10/stephen_colbert_interview_s_pe.html)
+
 ## Favorite Actor
 Terry Crews
 
