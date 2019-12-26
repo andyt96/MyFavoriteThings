@@ -1,4 +1,4 @@
-# hello-world!
+# Hello World!
 
 This is my first repository. This repository will help me understand Markdown and the inner workings of Github. To help me learn Markdown, I made this list of my favorite things:
 
