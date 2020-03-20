@@ -35,8 +35,8 @@ Dr. Pepper and Sprite (tie)
 ## Favorite Band
 Linkin Park
 
-## Favorite Video Game
-Plants vs Zombies
+## Favorite Movie
+DodgeBall: A True Underdog Story
 
 ## Favorite Superhero
 Flash
