@@ -33,10 +33,13 @@ Dr. Pepper and Sprite (tie)
 ![Bone: Out From Boneville Cover](https://upload.wikimedia.org/wikipedia/en/2/26/Out_from_Boneville.jpg)
 
 ## Favorite Band
-Linkin Park
+Krewella
 
 ## Favorite Movie
 DodgeBall: A True Underdog Story
+
+## Favorite Pixar Movie
+Wall-E
 
 ## Favorite Superhero
 Flash
@@ -53,3 +56,6 @@ Terry Crews
 
 ## Favorite Actress
 Kristen Bell
+
+## Favorite Fast Food Restaurant
+Checkers and Rally's
