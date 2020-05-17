@@ -8,7 +8,7 @@ Teen Titans
 ## Favorite Current TV Show
 Brooklyn Nine-Nine
 
-![HOT DAMN!](https://media.giphy.com/media/HEXbWjIsrbUIw/giphy.gif)
+![HOT DAMN!](https://media1.tenor.com/images/544adfaf1340f2843a4e101b00a9a889/tenor.gif)
 
 ## Favorite Color
 Purple
