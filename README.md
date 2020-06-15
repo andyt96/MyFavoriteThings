@@ -2,14 +2,6 @@
 
 This is my first repository. I created this repo to help me understand Markdown and the inner workings of Github. As a way to help me learn Markdown, I made this list of my favorite things. Enjoy!
 
-## Favorite TV Show
-Teen Titans
-
-## Favorite Current TV Show
-Brooklyn Nine-Nine
-
-![HOT DAMN!](https://media1.tenor.com/images/544adfaf1340f2843a4e101b00a9a889/tenor.gif)
-
 ## Favorite Color
 Purple
 
@@ -22,6 +14,17 @@ Mangoes
 ## Favorite Soda
 Dr. Pepper and Sprite (tie)
 
+## Favorite Fast Food Restaurant
+Checkers and Rally's
+
+## Favorite TV Show
+Teen Titans
+
+## Favorite Current TV Show
+Brooklyn Nine-Nine
+
+![HOT DAMN!](https://media1.tenor.com/images/544adfaf1340f2843a4e101b00a9a889/tenor.gif)
+
 ## Favorite Book Series
 *Artemis Fowl* by Eoin Colfer
 
@@ -32,17 +35,26 @@ Dr. Pepper and Sprite (tie)
 
 ![Bone: Out From Boneville Cover](https://upload.wikimedia.org/wikipedia/en/2/26/Out_from_Boneville.jpg)
 
+## Favorite Music Genre
+Dance-pop / EDM
+
 ## Favorite Band
 Krewella
 
+## Favorite Singer
+Kim Petras
+
 ## Favorite Movie
-DodgeBall: A True Underdog Story
+DodgeBall: A True Underdog Story (2004)
 
 ## Favorite Pixar Movie
-Wall-E
+Up (2009)
 
-## Favorite Superhero
-Flash
+## Favorite Actor
+Patrick Stewart
+
+## Favorite Actress
+Brie Larson
 
 ## Favorite Comedian
 Stephen Colbert
@@ -51,11 +63,5 @@ Stephen Colbert
 >
 > [Source](https://www.nj.com/entertainment/tv/2009/10/stephen_colbert_interview_s_pe.html)
 
-## Favorite Actor
-Terry Crews
-
-## Favorite Actress
-Kristen Bell
-
-## Favorite Fast Food Restaurant
-Checkers and Rally's
+## Favorite Superhero
+Flash
