@@ -26,11 +26,11 @@ Checkers and Rally's
 
 Teen Titans
 
-## Favorite Current TV Show
+## TV Show I'm Currently Watching Now
 
-Harley Quinn
+Bob's Burgers
 
-![Harley cheers](https://media1.tenor.com/images/826e6f1d9056c0818326cfc244a61317/tenor.gif)
+![Charm bomb](https://media3.giphy.com/media/dyG6hBlZrGY2k/giphy.gif)
 
 ## Favorite Book Series
 
@@ -40,9 +40,9 @@ _Artemis Fowl_ by Eoin Colfer
 
 ## Favorite Graphic Novel Series
 
-_Bone_ by Jeff Smith
+_Amulet_ by Kazuhiro "Kazu" Kibuishi
 
-![Bone: Out From Boneville Cover](https://upload.wikimedia.org/wikipedia/en/2/26/Out_from_Boneville.jpg)
+![Amulet: The Stonekeeper](https://upload.wikimedia.org/wikipedia/en/5/5f/The_Stonekeeper.jpg)
 
 ## Favorite Music Genre
 
@@ -58,11 +58,13 @@ Kim Petras
 
 ## Favorite Movie
 
-DodgeBall: A True Underdog Story (2004)
+_The Lego Movie_ (2014)
+
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/1/10/The_Lego_Movie_poster.jpg)
 
 ## Favorite Pixar Movie
 
-Up (2009)
+_Up_ (2009)
 
 ## Favorite Actor
 
@@ -82,4 +84,4 @@ Stephen Colbert
 
 ## Favorite Superhero
 
-Flash
+Ms. Marvel/Kamala Khan
