@@ -22,15 +22,15 @@ Dr. Pepper and Sprite (tie)
 
 Checkers and Rally's
 
-## Favorite TV Show
+## Absolute Favorite TV Show
 
 Teen Titans
 
-## TV Show I'm Currently Watching Now
+## Favorite TV Show I'm Currently Watching Now
 
 Bob's Burgers
 
-![Charm bomb](https://media3.giphy.com/media/dyG6hBlZrGY2k/giphy.gif)
+![Cool, sassy b](https://media.giphy.com/media/3og0IMtZSSOSRsnR9m/source.gif)
 
 ## Favorite Book Series
 
