@@ -48,9 +48,9 @@ _Amulet_ by Kazuhiro "Kazu" Kibuishi
 
 Dance-pop / EDM
 
-## Favorite Band
+## Favorite Music Band/Group
 
-Krewella
+Swedish House Mafia
 
 ## Favorite Singer
 
