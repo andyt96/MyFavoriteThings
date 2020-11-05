@@ -50,7 +50,7 @@ Dance-pop / EDM
 
 ## Favorite Music Band/Group
 
-Swedish House Mafia
+Krewella
 
 ## Favorite Singer
 
