@@ -10,6 +10,10 @@ Purple
 
 Fried rice
 
+## Favorite Vegetable
+
+Asparagus
+
 ## Favorite Fruit
 
 Mango
