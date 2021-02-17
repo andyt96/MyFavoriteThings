@@ -62,9 +62,9 @@ Kim Petras
 
 ## Favorite Movie
 
-_The Lego Movie_ (2014)
+_Spider-Man: Into the Spider-Verse_ (2018)
 
-![Movie poster](https://upload.wikimedia.org/wikipedia/en/1/10/The_Lego_Movie_poster.jpg)
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png)
 
 ## Favorite Pixar Movie
 
