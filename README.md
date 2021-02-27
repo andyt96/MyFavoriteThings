@@ -26,7 +26,7 @@ Dr. Pepper and Sprite (tie)
 
 Checkers and Rally's
 
-## Absolute Favorite TV Show
+## All-Time Favorite TV Show
 
 Teen Titans
 
