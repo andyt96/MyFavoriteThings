@@ -68,7 +68,7 @@ _Spider-Man: Into the Spider-Verse_ (2018)
 
 ## Favorite Pixar Movie
 
-_Up_ (2009)
+_Ratatouille_ (2007)
 
 ## Favorite Actor
 
