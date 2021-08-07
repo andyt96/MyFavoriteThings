@@ -28,13 +28,13 @@ Checkers and Rally's
 
 ## All-Time Favorite TV Show
 
-Teen Titans
+_Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-Bob's Burgers
+_Brooklyn Nine-Nine_
 
-![Cool, sassy b](https://media.giphy.com/media/3og0IMtZSSOSRsnR9m/source.gif)
+![That's my jam!](https://media.giphy.com/media/3o7WTJMjG44pEebcJy/giphy.gif)
 
 ## Favorite Book Series
 
