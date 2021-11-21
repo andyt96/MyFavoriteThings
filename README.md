@@ -32,9 +32,9 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_Brooklyn Nine-Nine_
+_Bob's Burgers_
 
-![That's my jam!](https://media.giphy.com/media/3o7WTJMjG44pEebcJy/giphy.gif)
+![she just has fun](https://media.giphy.com/media/xTiN0PhcFcx1QcbOPS/giphy.gif)
 
 ## Favorite Book Series
 
