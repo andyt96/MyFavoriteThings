@@ -88,4 +88,4 @@ Stephen Colbert
 
 ## Favorite Superhero
 
-Ms. Marvel/Kamala Khan
+Kamala Khan / Ms. Marvel
