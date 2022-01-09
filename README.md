@@ -48,17 +48,13 @@ _Amulet_ by Kazuhiro "Kazu" Kibuishi
 
 ![Amulet: The Stonekeeper](https://upload.wikimedia.org/wikipedia/en/5/5f/The_Stonekeeper.jpg)
 
-## Favorite Music Genre
-
-Dance-pop / EDM
-
 ## Favorite Music Band/Group
 
-Krewella
+The Neighbourhood
 
 ## Favorite Singer
 
-Kim Petras
+The Weeknd
 
 ## Favorite Movie
 
