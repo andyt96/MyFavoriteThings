@@ -32,9 +32,7 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_Bob's Burgers_
-
-![she just has fun](https://media.giphy.com/media/xTiN0PhcFcx1QcbOPS/giphy.gif)
+_Abbott Elementary_
 
 ## Favorite Book Series
 
@@ -60,7 +58,7 @@ The Weeknd
 
 _Spider-Man: Into the Spider-Verse_ (2018)
 
-![Movie poster](https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png)
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png)
 
 ## Favorite Pixar Movie
 
