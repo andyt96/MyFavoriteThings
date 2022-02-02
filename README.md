@@ -34,6 +34,10 @@ _Teen Titans_
 
 _Abbott Elementary_
 
+## Favorite Anime Series
+
+_Mob Psycho 100_
+
 ## Favorite Book Series
 
 _Artemis Fowl_ by Eoin Colfer
@@ -48,7 +52,7 @@ _Amulet_ by Kazuhiro "Kazu" Kibuishi
 
 ## Favorite Music Band/Group
 
-The Neighbourhood
+CHVRCHES
 
 ## Favorite Singer
 
