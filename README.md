@@ -32,11 +32,11 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_Abbott Elementary_
+_Tuca & Bertie_
 
 ## Favorite Anime Series
 
-_Mob Psycho 100_
+_Cowboy Bepop_
 
 ## Favorite Book Series
 
