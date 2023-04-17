@@ -1,6 +1,6 @@
 # Hello World!
 
-This is my first repository. I created this repo to help me understand Markdown and the inner workings of Github. As a way to help me learn Markdown, I made this list of my favorite things. Enjoy!
+This is my first repository. I created this repo to help me understand Markdown and the inner workings of GitHub. As a way to help me learn Markdown, I made this list of my favorite things. Enjoy!
 
 ## Favorite Color
 
