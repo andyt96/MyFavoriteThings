@@ -32,11 +32,11 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_Tuca & Bertie_
+_Abbott Elementary_
 
 ## Favorite Anime Series
 
-_Cowboy Bepop_
+_Kill la Kill_
 
 ## Favorite Book Series
 
@@ -52,7 +52,7 @@ _Amulet_ by Kazuhiro "Kazu" Kibuishi
 
 ## Favorite Music Band/Group
 
-CHVRCHES
+CHVRCHΞS
 
 ## Favorite Singer
 
@@ -74,7 +74,7 @@ Patrick Stewart
 
 ## Favorite Actress
 
-Brie Larson
+Keke Palmer
 
 ## Favorite Comedian
 
