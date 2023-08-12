@@ -20,11 +20,11 @@ Mango
 
 ## Favorite Soda
 
-Dr. Pepper and Sprite (tie)
+Dr. Pepper and Diet Coke (tie)
 
 ## Favorite Fast Food Restaurant
 
-Checkers and Rally's
+Wendy's
 
 ## All-Time Favorite TV Show
 
@@ -32,11 +32,11 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_Abbott Elementary_
+_What We Do in the Shadows_
 
 ## Favorite Anime Series
 
-_Kill la Kill_
+_Cowboy Bebop_
 
 ## Favorite Book Series
 
@@ -56,33 +56,29 @@ CHVRCHΞS
 
 ## Favorite Singer
 
-The Weeknd
+Lauren Mayberry
 
 ## Favorite Movie
 
-_Spider-Man: Into the Spider-Verse_ (2018)
+_Popstar: Never Stop Never Stopping_ (2016)
 
-![Movie poster](https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png)
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/6/6a/Popstar_Lonely_Island.jpg)
 
 ## Favorite Pixar Movie
 
-_Ratatouille_ (2007)
+_WALL-E_ (2008)
 
 ## Favorite Actor
 
-Patrick Stewart
+Jason Mantzoukas
 
 ## Favorite Actress
 
-Keke Palmer
+Ayo Edebiri
 
 ## Favorite Comedian
 
-Stephen Colbert
-
-> I'm not here to affect you politically or socially. I'm here to make you laugh. I use the news as the palette for my jokes.
->
-> [Source](https://www.nj.com/entertainment/tv/2009/10/stephen_colbert_interview_s_pe.html)
+Nathan Fielder
 
 ## Favorite Superhero
 
