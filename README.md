@@ -8,11 +8,11 @@ Purple
 
 ## Favorite Food
 
-Fried rice
+Cake
 
 ## Favorite Vegetable
 
-Asparagus
+Cauliflower
 
 ## Favorite Fruit
 
@@ -20,7 +20,7 @@ Mango
 
 ## Favorite Soda
 
-Dr. Pepper and Diet Coke (tie)
+Dr. Pepper
 
 ## Favorite Fast Food Restaurant
 
@@ -32,23 +32,31 @@ _Teen Titans_
 
 ## Favorite TV Show I'm Currently Watching Now
 
-_What We Do in the Shadows_
+_Bob's Burgers_
 
 ## Favorite Anime Series
 
-_Cowboy Bebop_
+_Kill la Kill_
 
 ## Favorite Book Series
 
-_Artemis Fowl_ by Eoin Colfer
+_The 39 Clues_ by Various
 
-![Artemis Fowl #1 cover](https://vignette.wikia.nocookie.net/artemisfowl/images/3/37/Images-1.jpeg)
+![The 39 Clues Book 1 cover](https://upload.wikimedia.org/wikipedia/en/6/6a/The_Maze_of_Bones.jpg)
 
 ## Favorite Graphic Novel Series
 
-_Amulet_ by Kazuhiro "Kazu" Kibuishi
+_Saga_ by Brian K. Vaughan
 
-![Amulet: The Stonekeeper](https://upload.wikimedia.org/wikipedia/en/5/5f/The_Stonekeeper.jpg)
+![Saga Book 1 cover](https://upload.wikimedia.org/wikipedia/en/7/78/Saga1coverByFionaStaples.jpg)
+
+## Favorite Magazine
+
+_The New Yorker_
+
+# Favorite Newspaper
+
+_The Onion_
 
 ## Favorite Music Band/Group
 
@@ -56,17 +64,23 @@ CHVRCHΞS
 
 ## Favorite Singer
 
-Lauren Mayberry
+Janelle Monáe
 
 ## Favorite Movie
 
-_Popstar: Never Stop Never Stopping_ (2016)
+_Spider-Man: Into the Spider-Verse_ (2018)
 
-![Movie poster](https://upload.wikimedia.org/wikipedia/en/6/6a/Popstar_Lonely_Island.jpg)
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png)
 
-## Favorite Pixar Movie
+## Favorite Disney Movie
 
-_WALL-E_ (2008)
+_Encanto_ (2021)
+
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/8/83/Encanto_poster.jpg)
+
+## Favorite Sports Team
+
+New York Liberty
 
 ## Favorite Actor
 
@@ -78,7 +92,7 @@ Ayo Edebiri
 
 ## Favorite Comedian
 
-Nathan Fielder
+Jon Stewart
 
 ## Favorite Superhero
 
