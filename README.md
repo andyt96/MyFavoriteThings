@@ -68,9 +68,9 @@ Janelle Monáe
 
 ## Favorite Movie
 
-_Spider-Man: Into the Spider-Verse_ (2018)
+_Parasite_ (2019)
 
-![Movie poster](https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png)
+![Movie poster](https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png)
 
 ## Favorite Disney Movie
 
