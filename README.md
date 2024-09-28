@@ -54,7 +54,7 @@ _Saga_ by Brian K. Vaughan
 
 _The New Yorker_
 
-# Favorite Newspaper
+## Favorite Newspaper
 
 _The Onion_
 
